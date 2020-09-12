@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hospital_react/static/css/main.64e66807.chunk.css",
+    "main.js": "/hospital_react/static/js/main.6d02c784.chunk.js",
+    "main.js.map": "/hospital_react/static/js/main.6d02c784.chunk.js.map",
+    "runtime-main.js": "/hospital_react/static/js/runtime-main.581648d3.js",
+    "runtime-main.js.map": "/hospital_react/static/js/runtime-main.581648d3.js.map",
+    "static/js/2.fb65dcf3.chunk.js": "/hospital_react/static/js/2.fb65dcf3.chunk.js",
+    "static/js/2.fb65dcf3.chunk.js.map": "/hospital_react/static/js/2.fb65dcf3.chunk.js.map",
+    "index.html": "/hospital_react/index.html",
+    "precache-manifest.eca5d7c2f9f68917e1d99a412f7820c8.js": "/hospital_react/precache-manifest.eca5d7c2f9f68917e1d99a412f7820c8.js",
+    "service-worker.js": "/hospital_react/service-worker.js",
+    "static/css/main.64e66807.chunk.css.map": "/hospital_react/static/css/main.64e66807.chunk.css.map",
+    "static/js/2.fb65dcf3.chunk.js.LICENSE.txt": "/hospital_react/static/js/2.fb65dcf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.581648d3.js",
+    "static/js/2.fb65dcf3.chunk.js",
+    "static/css/main.64e66807.chunk.css",
+    "static/js/main.6d02c784.chunk.js"
+  ]
+}
